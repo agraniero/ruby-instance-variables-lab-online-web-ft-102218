@@ -10,5 +10,4 @@ end
 
 lassie = Dog.new
 lassie.name = "Lassie"
- #=> "Lassie
 lassie.name "
